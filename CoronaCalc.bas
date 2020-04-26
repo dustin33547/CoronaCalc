@@ -1,3 +1,6 @@
+' Compile with FreeBASIC
+' Uses total deaths and today's new deaths to project forward
+
 cls
 print "Corona Forecast"
 print "by Dustin Smith"
